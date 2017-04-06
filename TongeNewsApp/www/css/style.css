@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+ 
+.slider {
+  height: 100%;
+}
+.list{
+  height:100%;
+}
+.slider-slide {
+  padding-top: 2px;
+  color: #000;
+  background-color: #fff;
+}
+
+.message img {
+  width: 100%;
+}
+ 
+.bottom-right {
+    position: absolute;
+    bottom: 5px;
+    /*background-color: black;
+    border-radius:30px;*/
+    right: 8px;
+    opacity: 0.9;
+    z-index: 10;
+}
